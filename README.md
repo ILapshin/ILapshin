@@ -7,4 +7,5 @@ I'm a Backend Developer with large Project Management background. Mostly experie
 I'm on a fleelance currently and open for a long-term partnership, so please feel free to contact me.
 
 igorlaphin@list.ru
+
 t.me/igor_1559
