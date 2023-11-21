@@ -2,11 +2,9 @@
 
 [![Igor Lapshin Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilapshin/)
 
-I'm a Project Engineer in [POINT, JSC](https://www.pointcad.ru/), leading projects for CAD/PDM add-ons developement. Our awesome products can generate 3D models of comlex engineering system in a couple of minutes (instead of days designing it manually) and generate 2D documentation after that also in minutes. 
+I'm a Backend Developer with large Project Management background. Mostly experienced in Django Rest Framework, and also have projects on FastAPI and telegram bots with aiogram. And a bit of frontend with React.
 
-I'm much interested in blockchain technologies for it is the future stands for it, so I spend spare time for learning how it works and how to develop stuff for an approaching Web 3.0.
+I'm on a fleelance currently and open for a long-term partnership, so please feel free to contact me.
 
-I also have large mechanical engineering background so I know how iron works and not afraid to screw a couple of nuts with my own hands.
-
-<h3> Please, feel free to check out my repos for learning blockchain projects!</h3> (And also old ML stuff I was messing with some time ago.)
-
+igorlaphin@list.ru
+t.me/igor_1559
