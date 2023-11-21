@@ -8,4 +8,4 @@ I'm on a fleelance currently and open for a long-term partnership, so please fee
 
 igorlaphin@list.ru
 
-t.me/igor_1559
+https://t.me/igor_1559
